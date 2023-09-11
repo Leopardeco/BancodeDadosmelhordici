@@ -86,3 +86,7 @@ INSERT INTO vendas (produto, receita) VALUES
 ('Produto E', 4000.00),
 ('Produto C', 11000.00),
 ('Produto D', 5000.00);
+
+
+-- exercício 1
+select titulo from livros;
